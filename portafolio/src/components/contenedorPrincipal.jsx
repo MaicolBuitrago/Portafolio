@@ -1,4 +1,4 @@
-
+import React from 'react';
 import ProjectCard from './tarjetaProyecto';
 import { 
   FaUser, 

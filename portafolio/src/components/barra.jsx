@@ -1,6 +1,6 @@
-
 import { FaGithub, FaLinkedin, FaEnvelope, FaPhone, FaMapMarkerAlt } from 'react-icons/fa';
 import profilePhoto from '../assets/Yo.jpeg';
+import React from 'react';
 
 const Sidebar = () => {
   const userInfo = {
