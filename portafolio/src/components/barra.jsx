@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { FaGithub, FaLinkedin, FaEnvelope, FaPhone, FaMapMarkerAlt } from 'react-icons/fa';
 import profilePhoto from '../assets/Yo.jpeg';
 
