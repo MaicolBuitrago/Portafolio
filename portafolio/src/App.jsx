@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import React from 'react'
 import Sidebar from './components/barra';
 import MainContent from './components/contenedorPrincipal';
 import './styles/App.css';
